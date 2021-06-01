@@ -1,3 +1,14 @@
+# ===== 01062021 1=========
+- add compodoc to broject to make auto documentation
+- npm i -D @compodoc/compodoc
+- npx @compodoc/compodoc -p tsconfig.json -s
+- Open your browser and navigate to http://localhost:8080. You should see an initial Nest CLI project:
+
+- define todo entity
+- define todo dto (server >>> client)
+- define todo create dto (client >>> server)
+- define todo list dto (server >>> client)
+
 # ===== 31052021 3=========
 - create ToDo module/controller/service with auto import/include
 - using commands :
