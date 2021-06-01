@@ -1,3 +1,5 @@
+# ===== 01062021 2=========
+- solve prettier and ESLint errors
 # ===== 01062021 1=========
 - add compodoc to broject to make auto documentation
 - npm i -D @compodoc/compodoc
