@@ -1,3 +1,8 @@
+# ===== 01062021 3=========
+- define GET / POST / PUT / DELETE TODOS
+- define mock todos list
+- create custom mapper and utils
+
 # ===== 01062021 2=========
 - solve prettier and ESLint errors
 # ===== 01062021 1=========
